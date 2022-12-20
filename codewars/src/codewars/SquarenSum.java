@@ -2,6 +2,11 @@ package codewars;
 
 public class SquarenSum {
 
+	
+	System.out.println():
+		6
+	
+	
 	public static void main(String[] args) {
 
 	}
