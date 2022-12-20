@@ -1,14 +1,11 @@
 package codewars;
 
-public class SquarenSum {
+public class SquareSum {
 
-	
-	System.out.println():
-		6
-	
-	
 	public static void main(String[] args) {
-
+		int[] n = {10,15,20};
+		System.out.println(squareSum(n));
+		
 	}
 	public static int squareSum(int[] n)
 	  {
@@ -19,6 +16,6 @@ public class SquarenSum {
 		}
 		
 		return result; 
-	  
+	 
 	  }
 }
