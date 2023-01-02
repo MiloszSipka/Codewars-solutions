@@ -3,13 +3,15 @@ package codewars;
 public class AreYouPlayingBanjo {
 
 	public static void main(String[] args) {
-
-		
+	
+		String name1 = "Roberto";
+		String name2 = "matt";
+		System.out.println(areYouPlayingBanjo(name1));
+		System.out.println(areYouPlayingBanjo(name2));
 
 	}
-
-
-public class Banjo {
+	
+	
 	  public static String areYouPlayingBanjo(String name) {
 		char[] nameChar = name.toCharArray();
 		 
@@ -21,6 +23,6 @@ public class Banjo {
 		}
 	
 	  
-	  }
+	  
 	}
 }

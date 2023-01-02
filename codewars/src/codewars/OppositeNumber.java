@@ -1,8 +1,9 @@
 package codewars;
 
 public class OppositeNumber {
-
 	public static void main(String[] args) {
+		
+		
 	System.out.println(opposite(0));
 	
 	}
