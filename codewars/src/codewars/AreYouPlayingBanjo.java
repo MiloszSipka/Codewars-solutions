@@ -6,8 +6,10 @@ public class AreYouPlayingBanjo {
 	
 		String name1 = "Roberto";
 		String name2 = "matt";
+		String name3 = "Tom";
 		System.out.println(areYouPlayingBanjo(name1));
 		System.out.println(areYouPlayingBanjo(name2));
+		System.out.println(areYouPlayingBanjo(name3));
 
 	}
 	
